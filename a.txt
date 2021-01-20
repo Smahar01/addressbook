@@ -16,4 +16,6 @@
 15-03-2018  19:08             4,369 README.md
 15-03-2018  19:08               651 sonar-project.properties
                8 File(s)        127,242 bytes
- this is my first project              4 Dir(s)  835,687,215,104 bytes free
+ this is my first project
+this is my second project. i am learning more and more 
+good morning all.             4 Dir(s)  835,687,215,104 bytes free
